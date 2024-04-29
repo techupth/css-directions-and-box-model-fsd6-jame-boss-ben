@@ -1,1 +1,29 @@
 /* Start coding here */
+.lightgrey {
+  display: inline-block;
+  margin: 16px 16px;
+
+  background-color: lightgrey;
+}
+
+.black {
+  display: inline-block;
+  margin: 16px 16px;
+  background-color: black;
+}
+
+.crimson {
+  display: inline-block;
+  margin: 24px 24px;
+  background-color: crimson;
+}
+
+.TechUp {
+  display: inline-block;
+  size: 72px;
+  background-color: khaki;
+  margin: 30px;
+}
+.head {
+  margin: 10px 600px 500px 600px;
+}

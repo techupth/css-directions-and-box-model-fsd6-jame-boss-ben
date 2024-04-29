@@ -1,1 +1,22 @@
-/* Start coding here */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.title-box {
+    height: 10vh;
+    padding: 10px;
+    background-color: #92AABD;
+    color: #183B56;
+}
+.content {
+    width: 30vw;
+    margin: 10px;
+    padding: 10px;
+    background-color: #AAAAAA;
+    color: #183B56;
+}
+.picture-box {
+    width: 480px;
+    height: 100px;
+    background: black;
+}

@@ -1,1 +1,19 @@
 /* Start coding here */
+.header {
+  background-color: #87afc7;
+  padding: 30px;
+}
+
+.box1 {
+  background-color: #87afc7;
+  padding: 30px;
+  width: 50%;
+  border: 3px solid black;
+}
+
+.box2 {
+  background-color: #87afc7;
+  padding: 30px;
+  width: 50%;
+  border: 3px solid black;
+}
